@@ -69,12 +69,11 @@ bg_color=#808080/>
 </p>
 
 <br>
-<br>
 
 <!-- <p align="center" >
 Can't live witout music.
 </p>
-
+ -->
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=cklixag9xakd9l4bw8mecoy36&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
-</p> -->
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=cklixag9xakd9l4bw8mecoy36&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+</p>
