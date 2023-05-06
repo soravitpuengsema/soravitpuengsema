@@ -58,16 +58,13 @@ Currently studying Computer Engineering at KMUTNB, Thailand.
 
 <br>
 
-<p align="center" >
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soravitpuengsema&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" 
-bg_color=#808080/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=soravitpuengsema&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" />
-</p>
+<div align="center">
+      
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soravitpuengsema&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soravitpuengsema&theme=dark&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center" >
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soravitpuengsema&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
+</div>     
+      
 <br>
 
 <!-- <p align="center" >
