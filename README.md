@@ -60,7 +60,7 @@ Currently studying Computer Engineering at KMUTNB, Thailand.
 
 <div align="center">
       
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soravitpuengsema&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soravitpuengsema&theme=github_dark&show_icons=true&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soravitpuengsema&theme=github_dark&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>     
