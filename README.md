@@ -33,31 +33,36 @@
       
 <br>
 
+<h3 align="center" >
+	My most played songs on Spotify 
+	<a href="https://open.spotify.com/user/cklixag9xakd9l4bw8mecoy36" target="blank" />
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1024px-Spotify_logo_without_text.svg.png" alt="spotify" height="20" width="20" />
+</h3>
 <table align="center">
   	<tbody>
     		<tr>
-      			<td><a href="https://natemoo-re-fork.vercel.app/top-tracks?i=1&open"><img src="https://natemoo-re-fork.vercel.app/top-tracks?i=1" width="550" height="64"></a></td>
-			<td><a href="https://natemoo-re-fork.vercel.app/top-tracks?i=6&open"><img src="https://natemoo-re-fork.vercel.app/top-tracks?i=6" width="550" height="64"></a></td>
+      			<td><a href="https://natemoo-re-fork.vercel.app/top-tracks?i=1&open"><img src="https://natemoo-re-fork.vercel.app/top-tracks?i=1" width="540" height="64"></a></td>
+			<td><a href="https://natemoo-re-fork.vercel.app/top-tracks?i=6&open"><img src="https://natemoo-re-fork.vercel.app/top-tracks?i=6" width="540" height="64"></a></td>
     		</tr>
     		<tr></tr> <!-- hide gray row -->
     		<tr>
-      			<td><a href="https://natemoo-re-fork.vercel.app/top-tracks?i=2&open"><img src="https://natemoo-re-fork.vercel.app/top-tracks?i=2" width="550" height="64"></a></td>
-			<td><a href="https://natemoo-re-fork.vercel.app/top-tracks?i=7&open"><img src="https://natemoo-re-fork.vercel.app/top-tracks?i=7" width="550" height="64"></a></td>
+      			<td><a href="https://natemoo-re-fork.vercel.app/top-tracks?i=2&open"><img src="https://natemoo-re-fork.vercel.app/top-tracks?i=2" width="540" height="64"></a></td>
+			<td><a href="https://natemoo-re-fork.vercel.app/top-tracks?i=7&open"><img src="https://natemoo-re-fork.vercel.app/top-tracks?i=7" width="540" height="64"></a></td>
     		</tr>
     		<tr></tr> <!-- hide gray row -->
     		<tr>
-      			<td><a href="https://natemoo-re-fork.vercel.app/top-tracks?i=3&open"><img src="https://natemoo-re-fork.vercel.app/top-tracks?i=3" width="550" height="64"></a></td>
-			<td><a href="https://natemoo-re-fork.vercel.app/top-tracks?i=8&open"><img src="https://natemoo-re-fork.vercel.app/top-tracks?i=8" width="550" height="64"></a></td>
+      			<td><a href="https://natemoo-re-fork.vercel.app/top-tracks?i=3&open"><img src="https://natemoo-re-fork.vercel.app/top-tracks?i=3" width="540" height="64"></a></td>
+			<td><a href="https://natemoo-re-fork.vercel.app/top-tracks?i=8&open"><img src="https://natemoo-re-fork.vercel.app/top-tracks?i=8" width="540" height="64"></a></td>
     		</tr>
 		<tr></tr> <!-- hide gray row -->
     		<tr>
-      			<td><a href="https://natemoo-re-fork.vercel.app/top-tracks?i=4&open"><img src="https://natemoo-re-fork.vercel.app/top-tracks?i=4" width="550" height="64"></a></td>
-			<td><a href="https://natemoo-re-fork.vercel.app/top-tracks?i=9&open"><img src="https://natemoo-re-fork.vercel.app/top-tracks?i=9" width="550" height="64"></a></td>
+      			<td><a href="https://natemoo-re-fork.vercel.app/top-tracks?i=4&open"><img src="https://natemoo-re-fork.vercel.app/top-tracks?i=4" width="540" height="64"></a></td>
+			<td><a href="https://natemoo-re-fork.vercel.app/top-tracks?i=9&open"><img src="https://natemoo-re-fork.vercel.app/top-tracks?i=9" width="540" height="64"></a></td>
     		</tr>
 		<tr></tr> <!-- hide gray row -->
     		<tr>
-      			<td><a href="https://natemoo-re-fork.vercel.app/top-tracks?i=5&open"><img src="https://natemoo-re-fork.vercel.app/top-tracks?i=5" width="550" height="64"></a></td>
-			<td><a href="https://natemoo-re-fork.vercel.app/top-tracks?i=10&open"><img src="https://natemoo-re-fork.vercel.app/top-tracks?i=10" width="550" height="64"></a></td>
+      			<td><a href="https://natemoo-re-fork.vercel.app/top-tracks?i=5&open"><img src="https://natemoo-re-fork.vercel.app/top-tracks?i=5" width="540" height="64"></a></td>
+			<td><a href="https://natemoo-re-fork.vercel.app/top-tracks?i=10&open"><img src="https://natemoo-re-fork.vercel.app/top-tracks?i=10" width="540" height="64"></a></td>
     		</tr>
 	</tbody>
 </table>
