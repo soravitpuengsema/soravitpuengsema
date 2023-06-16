@@ -1,17 +1,17 @@
 
 <h1 align="center">Soravit Puengsema 
 	<a href="https://www.linkedin.com/in/soravit-puengsema/" target="blank" />
-	<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soravit puengsema" height="25" width="35" />
+	<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="25" width="35" />
 </h1>
 
 <h3 align="center" >
 	I am currently...
 </h3>
 <p align="center" >
-	studying computer engineering at KMUTNB, Thailand.
+	📚 studying computer engineering at KMUTNB.
 </p>
 <p align="center" >
-	interning at Big C Supercenter Public Company Limited as a developer.
+	💼 interning at Big C Supercenter Public Company Limited.
 </p>
 
 <br>
@@ -34,9 +34,9 @@
 <br>
 
 <h3 align="center" >
-	My most played albums on Spotify 
+	My most played albums on Spotify   
 	<a href="https://open.spotify.com/user/cklixag9xakd9l4bw8mecoy36" target="blank" />
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1024px-Spotify_logo_without_text.svg.png" alt="spotify" height="20" width="20" />
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1024px-Spotify_logo_without_text.svg.png" alt="spotify" height="15" width="15" />
 </h3>
 <table align="center">
   	<tbody>
