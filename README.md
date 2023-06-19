@@ -1,5 +1,5 @@
 
-<h1 align="center">Soravit Puengsema 
+<h1 align="center">Hi! I'm Soravit Puengsema 
 	<a href="https://www.linkedin.com/in/soravit-puengsema/" target="blank" />
 	<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="25" width="35" />
 </h1>
@@ -8,11 +8,15 @@
 	I am currently...
 </h3>
 <p align="center" >
-	📚 studying computer engineering at KMUTNB.
+	📚 studying computer engineering at <b>KMUTNB</b>.
 </p>
 <p align="center" >
-	💼 interning at Big C Supercenter Public Company Limited.
+	💼 interning at <b>Big C Supercenter Public Company Limited</b>.
 </p>
+<p align="center" >
+	🌱 learning <b>Vue.js, Spring Boot</b>.
+</p>
+
 
 <br>
 
