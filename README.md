@@ -4,9 +4,11 @@
 	<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="25" width="35" />
 </h1>
 
-<h3 align="center" >
-	I am currently...
-</h3>
+<div id="user-content-toc" align="center">
+  <ul>
+    <summary><h2 style="display: inline-block;">I'm currently...</h2></summary>
+  </ul>
+</div>
 <p align="center" >
 	📚 studying computer engineering at <b>KMUTNB</b>.
 </p>
@@ -38,11 +40,18 @@
       
 <br>
 
-<h3 align="center" >
-	My most played albums on Spotify   
-	<a href="https://open.spotify.com/user/cklixag9xakd9l4bw8mecoy36" target="blank" />
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1024px-Spotify_logo_without_text.svg.png" alt="spotify" height="15" width="15" />
-</h3>
+
+<div id="user-content-toc" align="center">
+  <ul>
+    <summary>
+	<h2 style="display: inline-block;">
+		My most played albums on Spotify   
+		<a href="https://open.spotify.com/user/cklixag9xakd9l4bw8mecoy36" target="blank" />
+		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1024px-Spotify_logo_without_text.svg.png" alt="spotify" height="15" width="15" />
+	</h2>
+    </summary>
+  </ul>
+</div>
 <table align="center">
   	<tbody>
     		<tr>
