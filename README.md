@@ -39,7 +39,7 @@
 </div>
 
 <div id="user-content-toc" align="center">
-  <ul>
+<!--   <ul>
     <summary>
 	<h2 style="display: inline-block;">
 		My most played albums on Spotify   
@@ -47,33 +47,46 @@
 		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1024px-Spotify_logo_without_text.svg.png" alt="spotify" height="15" width="15" />
 	</h2>
     </summary>
-  </ul>
+  </ul> -->
+	<ul>
+    		<summary>
+			<h2 style="display: inline-block;">
+		Most played albums these last couple of weeks
+			<a href="https://open.spotify.com/user/cklixag9xakd9l4bw8mecoy36" target="blank" />
+			<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1024px-Spotify_logo_without_text.svg.png" alt="spotify" height="18" width="18" />
+			</h2>
+    		</summary>
+  	</ul>
 </div>
-<table align="center">
+<!-- <table align="center">
   	<tbody>
     		<tr>
       			<td><a href="https://natemoo-re-fork.vercel.app/top-albums?i=1&open"><img src="https://natemoo-re-fork.vercel.app/top-albums?i=1" width="540" height="64"></a></td>
 			<td><a href="https://natemoo-re-fork.vercel.app/top-albums?i=6&open"><img src="https://natemoo-re-fork.vercel.app/top-albums?i=6" width="540" height="64"></a></td>
     		</tr>
-    		<tr></tr> <!-- hide gray row -->
+    		<tr></tr>
     		<tr>
       			<td><a href="https://natemoo-re-fork.vercel.app/top-albums?i=2&open"><img src="https://natemoo-re-fork.vercel.app/top-albums?i=2" width="540" height="64"></a></td>
 			<td><a href="https://natemoo-re-fork.vercel.app/top-albums?i=7&open"><img src="https://natemoo-re-fork.vercel.app/top-albums?i=7" width="540" height="64"></a></td>
     		</tr>
-    		<tr></tr> <!-- hide gray row -->
+    		<tr></tr>
     		<tr>
       			<td><a href="https://natemoo-re-fork.vercel.app/top-albums?i=3&open"><img src="https://natemoo-re-fork.vercel.app/top-albums?i=3" width="540" height="64"></a></td>
 			<td><a href="https://natemoo-re-fork.vercel.app/top-albums?i=8&open"><img src="https://natemoo-re-fork.vercel.app/top-albums?i=8" width="540" height="64"></a></td>
     		</tr>
-		<tr></tr> <!-- hide gray row -->
+		<tr></tr>
     		<tr>
       			<td><a href="https://natemoo-re-fork.vercel.app/top-albums?i=4&open"><img src="https://natemoo-re-fork.vercel.app/top-albums?i=4" width="540" height="64"></a></td>
 			<td><a href="https://natemoo-re-fork.vercel.app/top-albums?i=9&open"><img src="https://natemoo-re-fork.vercel.app/top-albums?i=9" width="540" height="64"></a></td>
     		</tr>
-		<tr></tr> <!-- hide gray row -->
+		<tr></tr>
     		<tr>
       			<td><a href="https://natemoo-re-fork.vercel.app/top-albums?i=5&open"><img src="https://natemoo-re-fork.vercel.app/top-albums?i=5" width="540" height="64"></a></td>
 			<td><a href="https://natemoo-re-fork.vercel.app/top-albums?i=10&open"><img src="https://natemoo-re-fork.vercel.app/top-albums?i=10" width="540" height="64"></a></td>
     		</tr>
 	</tbody>
-</table>
+</table> -->
+			
+<div align="center">
+	<img src="https://spotify-top-album.vercel.app/api/top-3-albums"/>
+</div>
