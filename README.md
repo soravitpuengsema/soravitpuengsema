@@ -1,9 +1,7 @@
-
 <h1 align="center">Hi!👋    I'm Soravit Puengsema 
 	<a href="https://www.linkedin.com/in/soravit-puengsema/" target="blank" />
 	<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="25" width="35" />
 </h1>
-
 <div id="user-content-toc" align="center">
   <ul>
     <summary><h2>I'm currently...</h2></summary>
@@ -51,7 +49,7 @@
 	<ul>
     		<summary>
 			<h2 style="display: inline-block;">
-		Most played albums these last couple of weeks
+		Vibing to these albums
 			<a href="https://open.spotify.com/user/cklixag9xakd9l4bw8mecoy36" target="blank" />
 			<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1024px-Spotify_logo_without_text.svg.png" alt="spotify" height="18" width="18" />
 			</h2>
@@ -88,5 +86,6 @@
 </table> -->
 			
 <div align="center">
+	<a href="https://github.com/soravitpuengsema/spotify-top-albums">
 	<img src="https://spotify-top-album.vercel.app/api/top-3-albums" width="800">
 </div>
