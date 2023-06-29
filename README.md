@@ -14,7 +14,7 @@
 	💼 interning at <b>Big C Supercenter Public Company Limited</b>.
 </p>
 <p align="center" >
-	🌱 learning <b>Vue.js, Spring Boot</b>.
+	🌱 learning <b>Vue.js, Quasar and Spring Boot</b>.
 </p>
 
 
