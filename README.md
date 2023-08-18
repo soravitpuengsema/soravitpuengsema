@@ -40,5 +40,5 @@
 
 <div align="center">
 	<a href="https://github.com/soravitpuengsema/spotify-top-albums">
-	<img src="https://spotify-top-album.vercel.app/api/top-1-album-vinyl" width="400">
+	<img src="https://spotify-top-album.vercel.app/api/one-vinylplayer" width="400">
 </div>
