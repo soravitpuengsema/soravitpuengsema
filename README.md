@@ -8,13 +8,7 @@
   </ul>
 </div>
 <p align="center" >
-	📚 computer engineering grad at <b>KMUTNB</b>.
-</p>
-<p align="center" >
-	💼 working at <b>Big C Supercenter Public Company Limited</b>.
-</p>
-<p align="center" >
-	🌱 current stacks: <b>Vue.js, Quasar and Spring Boot</b>.
+	🌱 using <b>Vue.js, Quasar and Spring Boot</b>.
 </p>
 
 
