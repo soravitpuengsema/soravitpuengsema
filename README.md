@@ -1,4 +1,4 @@
-<h1 align="center">Hi!👋    I'm Soravit Puengsema 
+<h1 align="center">Hi!👋    I'm Pond 
 	<a href="https://www.linkedin.com/in/soravit-puengsema/" target="blank" />
 	<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="25" width="35" />
 </h1>
@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,java,py,react,vue,processing,nodejs,spring,express,firebase,postgres,mysql,mongodb,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=js,java,py,react,vue,vite,nodejs,spring,express,firebase,postgres,mysql,mongodb,postman,figma" />
   </a>
 </p>
 
@@ -31,8 +31,10 @@
 </div>
 
 <br>
-
+<p align="center" >
+	🎧 <b>listening to...</b>
+</p>
 <div align="center">
 	<a href="https://github.com/soravitpuengsema/spotify-top-albums">
-	<img src="https://spotify-top-album.vercel.app/api/one-vinylplayer" width="400">
+	<img src="https://spotify-top-album.vercel.app/api/four-vinylplayer">
 </div>
